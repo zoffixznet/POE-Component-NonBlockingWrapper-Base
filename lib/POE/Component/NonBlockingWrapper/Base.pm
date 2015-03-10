@@ -636,50 +636,26 @@ word "EXAMPLE" but make sure to proof read the entire thing :)
 L<POE>, L<POE::Wheel::Run>, L<POE::Component::Generic>,
 L<POE::Component::Generic::Object>
 
-=head1 AUTHOR
+=head1 REPOSITORY
 
-Zoffix Znet, C<< <zoffix at cpan.org> >>
-(L<http://zoffix.com>, L<http://haslayout.net>)
+Fork this module on GitHub:
+L<https://github.com/zoffixznet/POE-Component-NonBlockingWrapper-Base>
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-poe-component-nonblockingwrapper-base at rt.cpan.org>, or through
-the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=POE-Component-NonBlockingWrapper-Base>.  I will be notified, and then you'll
-automatically be notified of progress on your bug as I make changes.
+To report bugs or request features, please use
+L<https://github.com/zoffixznet/POE-Component-NonBlockingWrapper-Base/issues>
+If you can't access GitHub, you can email your request
+to C<bug-poe-component-nonblockingwrapper-base at rt.cpan.org>
 
-=head1 SUPPORT
+=head1 AUTHOR
 
-You can find documentation for this module with the perldoc command.
+Zoffix Znet <zoffix at cpan.org> (L<http://zoffix.com/>)
 
-    perldoc POE::Component::NonBlockingWrapper::Base
+=head1 LICENSE
 
-You can also look for information at:
-
-=over 4
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=POE-Component-NonBlockingWrapper-Base>
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/POE-Component-NonBlockingWrapper-Base>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/POE-Component-NonBlockingWrapper-Base>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/POE-Component-NonBlockingWrapper-Base>
-
-=back
-
-=head1 COPYRIGHT & LICENSE
-
-Copyright 2008 Zoffix Znet, all rights reserved.
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+You can use and distribute this module under the same terms as Perl itself.
+See the C<LICENSE> file included in this distribution for complete
+details.
 
 =cut
